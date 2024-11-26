@@ -1,0 +1,22 @@
+{
+    "name": "Fake WBTC",
+    "symbol": "WBTC",
+    "description": "Wrapped BTC (Wormhole)",
+    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png",
+    "external_url": "https://demo.deriverse.io/",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Deriverse Test Token"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "creators": [
+            {
+                "address": "3xYi9Wa25J7hrGXiPD5NyvywCFbJQa4YPoVqosYeJQDd",
+                "share": 100
+            }
+        ]
+    }
+}
